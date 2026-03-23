@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Account - Motion Artifact Reduction App</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #0f172a;
+            color: white;
+        }
+
+        header {
+            background: #1e293b;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            color: #38bdf8;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .card {
+            background: #1e293b;
+            padding: 25px;
+            border-radius: 12px;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #38bdf8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background: #020617;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Delete Account</h1>
+    <p>Motion Artifact Reduction App</p>
+</header>
+
+<section>
+
+    <div class="card">
+        <h2>Request Account Deletion</h2>
+        <p>
+            If you would like to delete your account and all associated data from the Motion Artifact Reduction App,
+            please follow the instructions below.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>How to Delete Your Account</h3>
+        <ul>
+            <li>Send an email request to our support team</li>
+            <li>Include your registered email ID</li>
+            <li>Mention “Delete My Account” in the subject</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Contact Support</h3>
+        <p>
+            📧 Email: <a href="mailto:support@marapp.com">support@marapp.com</a>
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Data Deletion Policy</h3>
+        <p>
+            Once your request is processed, all your personal data, uploaded signals, and account information
+            will be permanently deleted from our system within 7 working days.
+        </p>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 Motion Artifact Reduction App</p>
+</footer>
+
+</body>
+</html>
